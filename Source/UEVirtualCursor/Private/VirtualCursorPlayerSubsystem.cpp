@@ -3,8 +3,10 @@
 
 #include "VirtualCursorPlayerSubsystem.h"
 
+#include "Engine/Engine.h"
 #include "UEVirtualCursorSettings.h"
 #include "VirtualAnalogCursor.h"
+#include "Framework/Application/SlateApplication.h"
 
 DEFINE_LOG_CATEGORY(LogVirtualCursorPlayerSubsystem);
 
