@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Curves/CurveFloat.h"
+#include "Curves/RichCurve.h"
 #include "Engine/DeveloperSettings.h"
 #include "UEVirtualCursorSettings.generated.h"
 

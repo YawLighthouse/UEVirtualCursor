@@ -2,6 +2,9 @@
 
 #include "VirtualAnalogCursor.h"
 
+#include "Framework/Application/SlateApplication.h"
+#include "Layout/WidgetPath.h"
+#include "Engine/Engine.h"
 #include "UEVirtualCursorSettings.h"
 #include "Blueprint/WidgetLayoutLibrary.h"
 #include "Engine/UserInterfaceSettings.h"

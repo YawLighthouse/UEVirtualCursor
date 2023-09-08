@@ -3,6 +3,8 @@
 
 #include "UEVirtualCursorLibrary.h"
 
+#include "Engine/LocalPlayer.h"
+#include "GameFramework/PlayerController.h"
 #include "VirtualCursorPlayerSubsystem.h"
 
 DEFINE_LOG_CATEGORY(LogVirtualCursorLibrary);

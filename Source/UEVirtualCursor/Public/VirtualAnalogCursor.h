@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "CoreMinimal.h"
+#include "Engine/LocalPlayer.h"
 #include "Framework/Application/AnalogCursor.h"
 
 DECLARE_LOG_CATEGORY_EXTERN(LogVirtualAnalogCursor, Log, All);
