@@ -31,6 +31,7 @@ public class UEVirtualCursor : ModuleRules
 		PrivateDependencyModuleNames.AddRange(
 			new string[]
 			{
+				"DeveloperSettings",
 				"InputCore",
 				"UMG",
 				"Slate",
